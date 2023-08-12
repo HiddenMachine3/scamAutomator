@@ -1,0 +1,4 @@
++1.rename whatsapp group
++2.send message
+-3.rename contacts
++4.take screenshot
